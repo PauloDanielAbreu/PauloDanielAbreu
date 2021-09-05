@@ -1,6 +1,6 @@
-Paulo Daniel Abreu
+#### Paulo Daniel Abreu || Auditoria de Sistemas (SOX, CVM, PCI DSS, Bacen) e Segurança da Informação (ISO 27k, LGPD)
 
-Audit & Security
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloDanielAbreu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
