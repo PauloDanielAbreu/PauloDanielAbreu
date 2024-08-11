@@ -1,1 +1,1 @@
-#### Paulo Daniel Abreu || IT Security
+#### Paulo Daniel Abreu | CyberSecurity/DevSecOps
