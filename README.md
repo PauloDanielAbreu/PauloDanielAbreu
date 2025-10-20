@@ -47,6 +47,8 @@ Email: Your Email
 
 Implementing security solutions to protect critical infrastructures in large enterprises.
 Creating technical scripts for videos explaining cyber attacks and prevention measures.
--->
+
 ## ⚡ Fun Fact:
 Besides being a tech enthusiast, I'm a martial arts practitioner, rugby player, and I also enjoy reading classic literature, fiction, and philosophy books in my free time.
+
+-->
