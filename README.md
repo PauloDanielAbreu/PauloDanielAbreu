@@ -1,4 +1,4 @@
-# Paulo Daniel Abreu | CyberSecurity/DevSecOps
+CyberSecurity/DevSecOps
 
 
 I am a professional in **Infrastructure, DevSecOps, Auditing, and related IT fields**, with over 17 years of experience.
